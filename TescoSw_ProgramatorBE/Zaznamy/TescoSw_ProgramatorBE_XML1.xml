@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Zaznam>
+    <Car>
+        <ModelName>Škoda Oktávia</ModelName>
+        <SaleDate>2.12.2010</SaleDate>
+        <Price>500.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Felicia</ModelName>
+        <SaleDate>3.12.2010</SaleDate>
+        <Price>210.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Fabia</ModelName>
+        <SaleDate>4.12.2010</SaleDate>
+        <Price>350.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Oktávia</ModelName>
+        <SaleDate>4.12.2010</SaleDate>
+        <Price>500.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Oktávia</ModelName>
+        <SaleDate>5.12.2010</SaleDate>
+        <Price>500.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Fabia</ModelName>
+        <SaleDate>5.12.2010</SaleDate>
+        <Price>350.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Fabia</ModelName>
+        <SaleDate>6.12.2010</SaleDate>
+        <Price>350.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Forman</ModelName>
+        <SaleDate>4.12.2010</SaleDate>
+        <Price>100.000,-</Price>
+        <DPH>19</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Favorit</ModelName>
+        <SaleDate>5.12.2010</SaleDate>
+        <Price>80.000,-</Price>
+        <DPH>19</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Forman</ModelName>
+        <SaleDate>6.12.2010</SaleDate>
+        <Price>100.000,-</Price>
+        <DPH>19</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Felicia</ModelName>
+        <SaleDate>3.12.2010</SaleDate>
+        <Price>210.000,-</Price>
+        <DPH>19</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Felicia</ModelName>
+        <SaleDate>2.12.2010</SaleDate>
+        <Price>210.000,-</Price>
+        <DPH>19</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Oktávia</ModelName>
+        <SaleDate>7.12.2010</SaleDate>
+        <Price>500.000,-</Price>
+        <DPH>20</DPH>
+    </Car>
+     <Car>
+        <ModelName>Škoda Felicia1</ModelName>
+        <SaleDate>25.12.2010</SaleDate>
+        <Price>210.000,-</Price>
+        <DPH>0</DPH>
+    </Car>
+    <Car>
+        <ModelName>Škoda Felicia1</ModelName>
+        <SaleDate>19.12.2010</SaleDate>
+        <Price>210.000,-</Price>
+        <DPH>0</DPH>
+    </Car>
+</Zaznam>
